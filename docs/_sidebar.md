@@ -16,6 +16,6 @@
       - [1.2.2 Diagrama de Causa e Efeito](/Base/1.1.1.3.DiagramaCausaEfeito.md)
     - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações](/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras](/docs/Base/1.5.IniciativasExtras.md)
+    - [1.5. Iniciativas Extras](/Base/1.5.IniciativasExtras.md)
       - [1.5.1 Heatmap](/Base/1.5.1.heatmap.md)
       - [1.5.2 Ferramentas Utilizadas](/Base/1.5.2.ferramentas_usadas.md)
